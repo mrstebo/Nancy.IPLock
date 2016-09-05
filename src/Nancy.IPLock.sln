@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.IPLock", "Nancy.IPLock\Nancy.IPLock.csproj", "{FFDB03A6-8A84-4ED3-976F-004FD76FA9E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nancy.IPLock.Tests", "..\Nancy.IPLock.Tests\Nancy.IPLock.Tests.csproj", "{66228E1F-AAEB-4880-B79C-836FB0137A92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FFDB03A6-8A84-4ED3-976F-004FD76FA9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFDB03A6-8A84-4ED3-976F-004FD76FA9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFDB03A6-8A84-4ED3-976F-004FD76FA9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66228E1F-AAEB-4880-B79C-836FB0137A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66228E1F-AAEB-4880-B79C-836FB0137A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66228E1F-AAEB-4880-B79C-836FB0137A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66228E1F-AAEB-4880-B79C-836FB0137A92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
