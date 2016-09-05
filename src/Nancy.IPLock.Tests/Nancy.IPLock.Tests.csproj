@@ -77,7 +77,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\Nancy.IPLock\Nancy.IPLock.csproj">
+    <ProjectReference Include="..\Nancy.IPLock\Nancy.IPLock.csproj">
       <Project>{ffdb03a6-8a84-4ed3-976f-004fd76fa9e7}</Project>
       <Name>Nancy.IPLock</Name>
     </ProjectReference>
