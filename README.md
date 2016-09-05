@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/80b53b32uab36ax7?svg=true)](https://ci.appveyor.com/project/mrstebo/nancy-iplock)
+[![MyGet Prerelease](https://img.shields.io/myget/mrstebo/v/Nancy.IPLock.svg?label=MyGet_Prerelease)](https://www.myget.org/feed/mrstebo/package/nuget/Nancy.IPLock)
+[![NuGet Version](https://img.shields.io/nuget/v/Nancy.IPLock.svg)](https://www.nuget.org/packages/Nancy.IPLock/)
+
 # Nancy.IPLock
 IP Locking for Nancy to restrict/allow access from certain IP addresses
 
